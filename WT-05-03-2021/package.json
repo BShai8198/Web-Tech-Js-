@@ -1,0 +1,19 @@
+{
+  "name": "bushra1",
+  "version": "1.0.0",
+  "description": "this is my first app with express",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BShai8198"
+  },
+  "keywords": [
+    "expressapp"
+  ],
+  "author": "Bushra Shaikh",
+  "license": "ISC"
+}
